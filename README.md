@@ -1,2 +1,2 @@
 # CV
-CV template
+A Generic CV template
